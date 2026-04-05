@@ -32,22 +32,22 @@ Total joined dataset: **113,425 rows**
 * Replaced NULL values with `"Unknown"` to ensure consistency
 
 ## Key Insights
-### 💰 Revenue
+### Revenue
 * Total Revenue: **$13.6M**
 
-### 📦 Order Status
+###  Order Status
 * Delivered: **110K+ orders**
 * Very low cancellation and failure rates
 * Indicates strong fulfillment performance
 
-### 🛍️ Top Product Categories by Revenue
+###  Top Product Categories by Revenue
 * beleza_saude
 * relogios_presentes
 * cama_mesa_banho
 
 These categories drive the majority of revenue.
 ---
-### 🌎 Geographic Insights
+### Geographic Insights
 * São Paulo (SP) generates the highest revenue
 * Followed by:
   * Rio de Janeiro (RJ)
@@ -58,7 +58,11 @@ Revenue is highly concentrated in a few regions.
 ## Conclusion
 This analysis shows that revenue is driven by a small number of high-performing product categories and concentrated geographic regions. Additionally, strong delivery rates indicate efficient operations. These insights could support decisions in inventory planning, regional marketing, and product strategy.
 
-## Files
-* `01_data_cleaning.sql` → Data cleaning and validation
-* `02_analysis.sql` → Business analysis queries
+Images 
+<img width="446" height="132" alt="Screen Shot 2026-04-05 at 7 19 56 PM" src="https://github.com/user-attachments/assets/22043609-8bbc-4ee1-bb14-859b1a12a48e" />
 
+<img width="437" height="308" alt="Screen Shot 2026-04-05 at 7 20 53 PM" src="https://github.com/user-attachments/assets/ffd81158-5792-4c80-8e61-731a93f91334" />
+
+<img width="375" height="405" alt="Screen Shot 2026-04-05 at 7 23 02 PM" src="https://github.com/user-attachments/assets/6dca70d1-5f20-4d73-85ed-940ba7e54e35" />
+
+<img width="361" height="711" alt="Screen Shot 2026-04-05 at 7 23 44 PM" src="https://github.com/user-attachments/assets/aa1c863d-d114-4d49-afef-2891a2322f00" />
