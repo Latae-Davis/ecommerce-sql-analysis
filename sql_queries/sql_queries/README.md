@@ -59,22 +59,17 @@ Revenue is highly concentrated in a few regions.
 This analysis shows that revenue is driven by a small number of high-performing product categories and concentrated geographic regions. Additionally, strong delivery rates indicate efficient operations. These insights could support decisions in inventory planning, regional marketing, and product strategy.
 
 
-<img width="446" height="132" alt="Screen Shot 2026-04-05 at 7 19 56 PM" src="https://github.com/user-attachments/assets/22043609-8bbc-4ee1-bb14-859b1a12a48e" />
+<img width="446" height="132" alt="Screen Shot 2026-04-05 at 7 19 56 PM" src="https://github.com/user-attachments/assets/e185e7a8-3306-4eaa-9e75-ee94c601ab12" />
 
 
 
 
-
-<img width="437" height="308" alt="Screen Shot 2026-04-05 at 7 20 53 PM" src="https://github.com/user-attachments/assets/ffd81158-5792-4c80-8e61-731a93f91334" />
-
+<img width="437" height="308" alt="Screen Shot 2026-04-05 at 7 20 53 PM" src="https://github.com/user-attachments/assets/0c8d7274-c9b6-4349-976b-0d13776e8a2d" />
 
 
 
-
-<img width="375" height="405" alt="Screen Shot 2026-04-05 at 7 23 02 PM" src="https://github.com/user-attachments/assets/6dca70d1-5f20-4d73-85ed-940ba7e54e35" />
-
+<img width="375" height="405" alt="Screen Shot 2026-04-05 at 7 23 02 PM" src="https://github.com/user-attachments/assets/9a0f7776-205f-44ea-9703-631b55206f11" />
 
 
 
-
-<img width="361" height="711" alt="Screen Shot 2026-04-05 at 7 23 44 PM" src="https://github.com/user-attachments/assets/aa1c863d-d114-4d49-afef-2891a2322f00" />
+<img width="361" height="711" alt="Screen Shot 2026-04-05 at 7 23 44 PM" src="https://github.com/user-attachments/assets/e7531b0c-e3f3-4206-90ae-6b540b31ef47" />
